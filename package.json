@@ -1,0 +1,19 @@
+{
+  "name": "challenge-gatekeeper-middleware-extension",
+  "version": "0.0.1",
+  "description": "Extension challenge to create gatekeeper middleware",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "query-string": "^4.3.4",
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
